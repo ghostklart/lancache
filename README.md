@@ -7,5 +7,5 @@ Please consider editing IP addresses and other additional info in order to work 
 
 # to add:
 
-1) script in order to automate installation of the latest docker file
+1) script in order to automate installation of the latest docker distribution from https://download.docker.com
 2) automation in folder creation (dataset in zfs pool)
